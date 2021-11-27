@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://syairhk78.github.io/syair-opesia-hari-ini/sitemap.xml
